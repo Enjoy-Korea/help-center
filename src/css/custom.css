@@ -1,0 +1,51 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #eaa700;
+  --ifm-color-primary-dark: #eaa700;
+  --ifm-color-primary-darker: #eaa700;
+  --ifm-color-primary-darkest: #eaa700;
+  --ifm-color-primary-light: #ffb801;
+  --ifm-color-primary-lighter: #ffd951;
+  --ifm-color-primary-lightest: #ffe998;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme="dark"] {
+  --ifm-color-primary: #ffb801;
+  --ifm-color-primary-dark: #eaa700;
+  --ifm-color-primary-darker: #eaa700;
+  --ifm-color-primary-darkest: #eaa700;
+  --ifm-color-primary-light: #ffd951;
+  --ifm-color-primary-lighter: #ffe998;
+  --ifm-color-primary-lightest: #fff1c3;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+img {
+  max-width: 80%;
+  border-radius: 8px;
+}
+
+.hero__title {
+  background: -webkit-linear-gradient(
+    90deg,
+    rgba(255, 215, 108, 1) 0%,
+    rgba(247, 192, 75, 1) 38%,
+    rgba(235, 213, 20, 1) 100%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 72px;
+}
+
+.hero__subtitle {
+  color: gray;
+}

@@ -1,0 +1,364 @@
+# Guest Policy(English)
+
+[한국어 게스트 규정](/policies/guest_kr)
+
+## 1. **Definition of Terms**
+
+### A. Definitions for the guest payment composition
+
+- Accomodation : The cost paid to the host for monthly accommodation.
+- Utility fee : The monthly combined fee for utilities and maintenance paid to the host.
+- Additional person charge : Cost for exceeding the standard number of residents, includes additional utilities and maintenance.
+- Bedding package : The host offers a bedding rental package available for the duration of the stay. It's an optional service fee that guests can choose to receive.
+- Check out cleaning : Mandatory cleaning service provided by the host after the previous guest checks out and before the new guest checks in.
+- Fee(Enkor service fee) : Cost for payment and consultation services provided by the platform.
+  - 10% of the rent
+- Host service : Bedding package + Check out cleaning
+- Rent : Accomodation + Utility fee+ Additional person charge
+- Total payment : Total rent + Enkor service fee + Host service
+- Initial payment : Rent from move-in day to end of the next month + Fee + Host service
+- Cumulative payment (based on total payment) : Amount paid by the guest so far
+- Remaining payment (based on total payment) : Amount the guest still needs to pay
+
+## 2. **Rent Calculation**
+
+### Calculation Method for Rent
+
+- Rent is determined based on the number of nights(nights) a guest resides and sleeps.
+- The minimum booking requirement for initial new reservations is 30 nights.
+- Monthly rent is applied when the guest sleeps throughout the entire month.
+- If the guest sleeps for only a part of the month, the daily rent is determined by multiplying it by the number of nights.
+  - Daily rent = Monthly rent / 30
+- ※**Example**
+  1. 2023.01.01 ~ 2023.01.31 (30nights) :
+  - Daily rent for partial stay in January \* 30 nights
+  1. 2023.01.01 ~ 2023.02.01 (31night) :
+  - Full monthly rent charged for the entire stay in January.
+  1. 2023.01.15 ~ 2023.02.14 (30night) :
+  - Daily rent for partial stay in January and February \* 30 nights
+  1. 2023.01.15 ~ 2023.04.14 (90night) :
+  - For January and April, the rent is calculated based on daily rates due to partial stay, whereas for February and March, it's calculated with the full monthly rate due to complete occupancy.
+
+## 3. Reservation & Cancellation Refunds
+
+### Reservation Procedure and Payment Methods
+
+- Guests proceed with the reservation through the following steps in accordance with these terms and conditions and the regulations set by the company:
+  1. Membership registration (Log in)
+  2. Selection of the reserved accommodation and choosing the period of use
+  3. Guest payment process
+  4. Sending a reservation approval request to the host
+  5. Approval of the host's request
+- Payment is primarily accepted through credit card, and in limited situations, bank transfers may be allowed. Upon the host's approval of the reservation request, a bilateral agreement between the host and the guest for the specified accommodation and usage period is considered to be formed.
+- Upon completion of payment and reservation, the guest is deemed to have fully understood and agreed to these terms and conditions, the service details, the conditions for the host's accommodation, and the refund policy.
+- The company provides the necessary services for the execution of contracts between guests and hosts and may impose service fees according to its internal policies during the contract process between guests and hosts.
+
+### Reservation application
+
+Guests can choose their preferred accommodation, dates, and the number of people at [**stay.enkor.kr**](http://stay.enkor.kr/).
+
+- **New reservation :**
+  1. Guests can request a reservation for the desired accommodation. The reservation is confirmed upon the host's approval.
+  2. Payment terms are determined based on the length of residency:
+     1. Less than 90 nights: Lump-sum payment.
+     2. 90 nights or more: Installment payments (after the initial payment, monthly rent is paid).
+
+Note : For extended reservations, lump-sum payment for less than 60 nights and installment payments for 60 nights or more.
+
+※ Initial payment amount = Rent + Fees + Host Services from move-in date to the end of the following month. (If move-in date is the 1st, it is calculated until the end of the current month.)
+
+- **Extension of reservation :**
+  1. Guests wishing to extend their stay in the same accommodation can proceed with an extension reservation.
+  2. Guests can request an extension through their account. If the accommodation is available for the requested period, the reservation is confirmed upon the host's approval.
+  3. Each reservation is treated separately, allowing for individual cancellation or changes.
+  4. Each extended reservation follows its cancellation and change regulations.
+
+### Reservation rejection
+
+- The host can decline the reservation if it's not available for the specified period, and a valid reason for the refusal must be provided to the guest.
+- However, once the host has accepted, they cannot unilaterally cancel the reservation. If they do so, they face penalties.
+- If the host doesn't respond within 72 hours after the guest's request, the reservation is automatically declined, and the full amount is refunded.
+
+### Reservation cancellation
+
+Guests can cancel their reservation on their own through the 'My Reservations' section on the My Page.
+
+Cancellation of the reservation does not require separate consultation with the host.
+
+#### Refund calculation
+
+1. Refund is calculated by subtracting penalties from the cumulative payment.
+2. Additional payments might be required based on the cumulative amount.
+3. After the fee-free cancellation period has passed, any cancellation due to the guest's reasons will not result in a refund of the fees.
+4. Fees are not eligible for refund; however, if they fall under the criteria for fee exemption, they can be refundable.
+5. If a guest requests a refund after the contract between the guest and the host has been terminated, a refund is not possible.
+
+#### Penalty regulations
+
+1. Cancellation penalties are charged based on ‘total rent \* penalty rate’.
+2. Unprovided Host service (bedding package, Check-out cleaning) are fully refunded.
+3. Fees are not eligible for refund, but if they meet the criteria for fee exemption, they can become refundable.
+
+#### Penalty standards
+
+- More than 61 days before move-in → No penalty
+- 60 to 31 days before move-in → A penalty of 10% of the total rent is charged.
+- 30 to 8 days before move-in → A penalty of 20% of the total rent is charged.
+- 7 to 4 days before move-in → A penalty of 30% of the total rent is charged.
+- 3 days to 24 hours before move-in → A penalty of 50% of the total rent is charged.
+- Within 24 hours of move-in → A penalty of 70% of the total rent is charged.
+
+#### Period for free cancellation of fees
+
+- More than 61 days before move-in & within 7 days after payment
+- Within 60 days of move-in & within 24 hours after payment
+
+#### Reasons for exemption from penalties and fees
+
+- Natural disasters, uncontrollable events like wars
+- Cancellation of reservation due to the host's reasons
+  ※ Evidence must be provided for exemption.
+
+#### Reasons that don't qualify for penalty and fee exemptions
+
+- Simple change of mind or personal reasons
+- Forced eviction due to prohibited actions within the accommodation such as violent behavior, criminal activity, and indoor smoking.
+- Denied entry or visa issuance → Needs careful verification before reservation
+- Cancellation or change of flights due to bad weather → Should request reservation change instead of cancellation.
+
+          ※ However, some leniency might be provided upon negotiation with the host.
+
+### Reservation changes
+
+The changes of a reservation refers to a shortening or extension of the reservation period.
+
+#### Shortening the reservation period
+
+1. Guests must adhere to the contract period and may shorten the reservation period with the host's consent. Additionally, penalties may apply depending on the timing of reservation change requests.
+2. Shortening the reservation period can be arranged through messaging with the host.
+3. Shortening the reservation period is only possible after the host has accepted the reservation.
+
+#### Extending the reservation period
+
+1. Guests can extend their reservation period based on their needs through their account.
+
+#### Refund calculation
+
+1. Refund is calculated by subtracting penalties from the cumulative payment.
+2. Additional payments might be required based on the cumulative amount.
+3. Already provided Host service (bedding package, check-out cleaning) are not refunded. For refunds, separate negotiations with the host are needed.
+4. Even if the reservation is changed, the already paid fees are non-refundable.
+5. If a guest requests a refund after the contract between the guest and the host has been terminated, a refund is not possible.
+
+#### Penalty regulations
+
+- Change penalty is calculated as '(initial total rent - new total rent) \* penalty rate'.
+
+#### Late check-in penalty rates
+
+- Request for late check-in more than 61 days before desired move-in date → No penalty
+- Request for late check-in 60 to 31 days before desired move-in date → 10%
+- Request for late check-in 30 to 8 days before desired move-in date → 20%
+- Request for late check-in within 7 days of desired move-in date → 30%
+
+#### Early check-out penalty rates
+
+- Request for early check-out more than 61 days before desired move-out date → No penalty
+- Request for early check-out 60 to 31 days before desired move-out date → 10%
+- Request for early check-out 30 to 8 days before desired move-out date → 20%
+- Request for early check-out within 7 days of desired move-out date → 30%
+- **Note: If the remaining period from the declaration of move-out to the contract end date is less than 60 days, no refund will be given.**
+
+#### Reasons for penalty exemption
+
+- Reservation changes due to the host's reasons
+  - Controllable reasons:
+    - Host's double bookings
+    - Host's change of mind
+    - Host's operation termination
+  - Uncontrollable reasons:
+    - Natural disasters, wars
+    - Building fire or destruction
+    - Sudden building malfunctions (like electricity, boiler issues critical for residence)
+    - Restrictions by the government making the lease impossible (like infectious diseases)
+    - Host's death
+
+### Refund Criteria for Guests During Stay
+
+#### Eligible for Guest Refund Request
+
+Minimum security measures are not in place, threatening the safety of the guest (e.g., exposure of room password).If the actual residence information is different from the booked one, except when the residence information has changed since the time of booking, and the 'guest' has agreed to it. The provided residence option information is different from the actual situation.Building location information is different from the actual.
+
+#### Not Eligible for Guest Refund Request
+
+If the guest fails to fulfill their obligations, However, the host must provide evidence that the guest did not fulfill their obligations.Reasons not listed in the contract written by the guest for refunds.Loss of valuables or items owned by the guest due to their own fault.
+
+### Note
+
+#### 1. Poor Residential Management
+
+- Poor residential management can be subject to complaints, but it's not directly eligible for refunds.
+- However, the host is obligated to provide accommodations that meet or exceed the minimum maintenance standards. If subpar residential conditions are identified, all efforts must be made to rectify them.
+- Examples of poor residential management include:
+  - Previous guest's belongings left unattended.
+  - Failure to provide amenities specified for the guest (e.g., vacuum cleaner, kitchen utensils).
+  - Malfunction of devices promised by the host affecting a comfortable living environment.
+- Failure to remove elements that can pose health risks to guests (e.g., mold, mites).
+  - Proof from a reputable organization or institution confirming that these elements posed a threat to the guest's health must be provided.
+  - Stray hairs that could be found even after room inspection and cleaning, or seasonal insects (like mosquitoes) that can appear during specific periods, are not considered under this.
+
+#### 2. In the event of poor residential management
+
+- Both the host and guest should be cognizant of the compromised residential conditions.
+- Guests should await the host's efforts to ameliorate these conditions.
+- The host must actively take measures to address and correct any residential issues raised by the guest.
+- If the host assesses that it's no longer feasible to further enhance the residential conditions, they can offer options to the guest, such as relocating to another of the host's properties, upgrading the accommodation grade, or providing discounts on the monthly rent or living expenses.
+
+### Guest Refund Procedure
+
+The refund procedure for the guest is:
+
+- 1. Evidence collection
+- 2. Bilateral negotiation
+- 3. Customer service mediation request
+- 4. Refund progression.
+
+#### 1. Evidence collection
+
+- Sufficient evidence, like photos and videos, should be collected within 24 hours of the issue occurrence.
+- If necessary, the host can request additional documentation or materials from the guest.
+
+#### 2. Bilateral negotiation
+
+- Guests can request a refund from the host based on collected evidence.
+- The host can compensate the guest through means other than a refund.
+- If a satisfactory agreement isn't reached, they can proceed to the next step.
+
+#### 3. Customer service mediation request
+
+- If mediation is requested at the Enkor customer center, mediation will be provided within a maximum of 3 business days.
+- Enkor customer service follows the basic terms and cancellation refund regulations and mediates based on them.
+- However, if there's evidence from the host of issues caused by the guest, like smoking or bringing unauthorized pets, a refund might be challenging.
+
+### Time required for a refund
+
+1. Refund requests reported within 24 hours of the issue occurrence are deemed more reliable.
+2. If refund conditions are met, the refund amount will be automatically received within 10 days or sooner.
+3. Enkor Withers processes payments and refunds through Stripe. Even after initiating the refund, the actual time for the refunded amount to reflect in the bank account can vary based on the bank and card company's processing times.
+
+## 4. Responsibilities & Duties
+
+### Duties of the guest
+
+- The guest should actively attempt to communicate with the host if any issues arise during their stay.
+- Hosts and guests must mutually respect each other, and guests have a responsibility not to misuse the accommodation they have rented from the host. Examples of this responsibility include the following:
+  - Damaging items due to negligence
+  - Maintaining cleanliness
+- Guests should follow the living regulations provided by the host before move-in or agreed upon in the contract. Examples include:
+  - Exceeding the number of residents
+  - Proper waste disposal and recycling separation.
+  - Following guidelines about boilers, ventilation, and preventing freezing
+  - Avoiding behavior disturbing neighbors, like smoking, unauthorized pets, or making excessive noise
+- ※ Guests are responsible for adhering to these regulations. If they violate them, the host is not held accountable.
+
+### Duties of the host
+
+- The host should actively attempt to communicate with the guest if any issues arise during their stay.
+- Hosts and guests must mutually respect each other, and host must respect the guest and provide an appropriate living space. Examples of this responsibility include the following:
+  - The guest should not be discriminated against based on race, nationality, gender, etc.
+  - The actual living space and its information should match the provided location and interior details, and the offered amenities should not differ.
+    - If the offered amenities are different, the guest must be notified in advance and their consent obtained.
+  - The living space should be maintained to at least a minimum standard. Examples of these standards include:
+    - Items from previous occupants left behind.
+    - Trash bins not emptied.
+    - A level of uncleanliness deemed by Enkorstay to make the space difficult to enter.
+
+※ Hosts have responsibilities according to these regulations. If they violate them, the guest is not held accountable.
+
+### Duties of Enkorwithus
+
+- Enkorwithus should abide by applicable laws while operating and avoid illegal activities.
+- Enkorwithus acts as a bridge between guests and hosts, fulfilling this role dutifully. In this role, they are responsible for:
+  - Informing about any changes to the system or regulations in advance.
+  - One must always maintain a neutral position while mutually respecting the rights of both the guest and the host.
+  - Mediating disputes between guests and hosts impartially and fairly.
+
+※ Enkorwithus is responsible for fulfilling these duties. If they fail in these duties, they are accountable to either the guest or the host for compensation.
+
+### Limitations of Liability
+
+- The company shall be exempt from responsibility for providing services in the event of "force majeure" or circumstances equivalent thereto that make it impossible to provide the service.
+- The company is not responsible for service disruptions caused by the faults of guests or hosts.
+- The company is not responsible for the reliability, accuracy, or any other aspects of the content, reviews, information, data, etc., posted by guests in connection with the service.
+- The company is not responsible for transactions between guests or between a guest and another third party facilitated through the service.
+
+## 5. Contract
+
+- Hosts and guests can create a separate contract by mutual agreement
+- However, if disputes arise between the host and guest that need resolution, this policy is followed for refunds and compensations.
+
+## 6. General House Rules
+
+### Smoking
+
+- Guests are allowed to smoke only in designated areas as instructed by the host.
+- Smoking in prohibited areas may result in warnings, fines, or mandatory eviction depending on the circumstances.
+
+### Noise
+
+- During quiet hours (midnight to 6 AM), noise should be kept to a minimum to ensure the guests' adequate sleep.
+- The host must make efforts to eliminate any noise disturbances that may interfere with the guests' sleep.
+- If noise complaints are received during quiet hours due to a guest, the host may issue a warning or enforce eviction.
+- However, exceptions are made for events such as parties or social activities causing noise, granted that the host and surrounding guests have been informed at least one week in advance.
+
+### Garbage
+
+- All accommodations at Encostay are obligated to adhere to waste separation according to the laws of waste management in South Korea.
+- Guests must follow the waste separation guide provided by the host.
+- Failure to properly separate waste, leading to rejected garbage collection, will result in the guest being held responsible for compensation.
+- In case of complaints about odor, pests, etc., stemming from failure to dispose of garbage, an investigation will be conducted. If the investigation reveals the guest's fault, fines, eviction, or other measures may be taken.
+
+### Pets
+
+- Pets are not allowed in areas where entry is restricted.
+- However, entry is permitted under the following circumstances in accordance with South Korean law:
+  - Guide dogs for visually impaired individuals
+  - Therapy dogs aiding in the psychological well-being of patients.
+
+### Unauthorized Subleasing
+
+- The rented accommodation is exclusively for the use of the guest who made the reservation.
+- Guests are not allowed to sublease, sell, or transfer the rented accommodation.
+- Violation of this rule may result in mandatory eviction.
+
+### Guest Conflicts
+
+- In the event of conflicts among guests, efforts must be made to resolve the issues peacefully and with mutual respect.
+- If conflicts cannot be resolved among guests, the host will mediate to find a resolution.
+- The host is obligated to resolve conflicts among guests, and guests must respect the conflict resolution methods suggested by the host.
+- If a guest raises objections to the host's conflict resolution methods, they may bring the issue to Enkorstay for consideration.
+- Enkorstay has the authority to decide whether to accept the guest's objections, and the guest must respect Enkorstay's decision.
+
+## 7. Claim for Damage
+
+- In the case of damage, loss, or dirtiness of facilities, buildings, furnishings, and other items within the accommodation due to reasons other than force majeure, the host will proceed with repair cost payment and compensation.
+- The compensation process follows the steps below:
+  - After the guest checks out, the host inspects the accommodation to determine if there is any damage to walls, window frames, bedding, furniture, etc.
+  - If damage is confirmed, the host issues an invoice to the guest responsible for the damage.
+  - If there are objections to the amount, the guest must communicate their objections to the host within 24 hours after receiving the invoice.
+  - Failure to raise objections within the given time frame will be considered agreement to the invoice, and the cost will be billed accordingly.
+
+## 8. Review
+
+- The review system is comprised of guest feedback on accommodations and responses from hosts. The purpose of this policy is to mutually respect and balance the rights of guests and hosts, providing protection.
+- Guests can write reviews within 30 days after the check-out date, and hosts have the option to respond to the comments left by guests.
+- Guest reviews are displayed on the website, and hosts cannot hide or delete them. If a review deletion is desired, the guest must request it through a separate notification to the company. The company will then internally review the request for deletion.
+- Hosts are prohibited from releasing or coercing false reviews with the intention of raising or lowering the accommodation's rating. If the creation or encouragement of false reviews is confirmed, additional consequences may be imposed by Encostay.
+- Reviews containing the following characteristics will be subject to unnotified deletion after administrator verification:
+  1. Explicit sexual expressions or profanity
+  2. Content that is hostile, antisocial, or unethical targeting specific hosts or guests
+  3. Reviews that are unrelated to the accommodation and stay.
+
+## 9. Contact Enkorwithus
+
+If guests or hosts have questions regarding the above clauses, they are advised to contact Enkorwithus through the "Help" button on the website.

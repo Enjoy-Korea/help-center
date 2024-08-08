@@ -26,4 +26,4 @@ Here is the translated table in Korean:
 
 ### 집주인이 거주지 입증서류를 제공하지 않아요
 
-First, download the [request form (click)](https://drive.google.com/file/d/15D4Jci1-i1tWtAurMV7WNKMxSK_izoNr/view?usp=drive_link) and give it to your landlord. If the landlord still refuses to issue the documents, please leave a record of your communication with the landlord on the KakaoTalk channel and provide your contact information (phone number). A representative will contact you.
+먼저 [발급요청서(click)](https://drive.google.com/file/d/15D4Jci1-i1tWtAurMV7WNKMxSK_izoNr/view?usp=drive_link)를 다운받아 집주인에게 전달해 주세요. 만약 그래도 발급을 해주지 않는다면 카카오톡 채널에 집주인과 소통한 내용을 남겨 주시고, 학생 본인 연락처(핸드폰 번호)를 남겨주세요. 담당자가 연락 드리겠습니다.

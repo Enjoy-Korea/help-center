@@ -6,8 +6,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Help Center (WIP)",
-  tagline: "👷‍♂️Navigate your life in Korea with us.",
+  title: "Help Center",
+  tagline: "Elevating the experience of all foreigners in Korea",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
@@ -55,7 +55,7 @@ const config = {
         logo: {
           alt: "Enkorwithus Logo",
           src: "img/logo.svg",
-          srcDark: "img/logo_dark.svg"
+          srcDark: "img/logo_dark.svg",
         },
         items: [
           {

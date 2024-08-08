@@ -5,38 +5,42 @@ import styles from './styles.module.css';
 type FeatureItem = {
   title: string;
   description: JSX.Element;
+  img: string;
 };
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Housing',
+    title: 'Enkor Stay',
     description: (
       <>
-        Easy long-term stays in Korea
+        Cheaper and easier stays in Korea. No deposit. Resident Card documents automatically issued.
       </>
     ),
+    img: '/img/service_portfolio_housing.png'
   },
   {
-    title: 'Visa',
+    title: 'Enkor Visa',
     description: (
       <>
-        Easy Visa services
+        Resident Card application processing trusted by institutions in Korea. Easy and reliable with English customer support.
       </>
     ),
+    img: '/img/service_portfolio_visa.png'
   },
   {
-    title: 'Bedding',
+    title: 'Premium Bedding Rental',
     description: (
-      <>Bedding rental
-      </>
+      <>Hassle-free bedding rental delivered to your dorm. Routine washing provided.</>
     ),
+    img: '/img/service_portfolio_bedding.png'
   }
 ];
 
-function Feature({ title, description }: FeatureItem) {
+function Feature({ title, description, img }: FeatureItem) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center padding-horiz--md">
+        <img src={img} className={styles.featureImg} />
         <h3>{title}</h3>
         <p>{description}</p>
       </div>

@@ -18,7 +18,7 @@ function HomepageHeader() {
           <Link
             className="button button--primary button--lg"
             to="/articles/housing/faq">
-            Frequently Asked Questions
+            Frequently asked questions
           </Link>
         </div>
       </div>
@@ -31,7 +31,7 @@ export default function Home(): JSX.Element {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Easy Korea with Enkorwithus."
+      description="Enkorwithus official help center."
     >
       <HomepageHeader />
       <main>

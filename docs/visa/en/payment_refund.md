@@ -26,3 +26,7 @@ Please refer to the table below for the refund policy. If your reason for reques
 | Duplicated payment                                                                                     | Full refund                                               |
 | If the applicant applied both to the immigration office and to Enkorstay                               | No refund                                                 |
 | If the applicant's application was rejected by immigration due to the applicant's reasons              | No refund                                                 |
+
+### How to apply for refund
+
+Please provide your name, university, student ID number, and reason for refund request via [email](mailto:visa-help@enkor.kr) or KakaoTalk channel.

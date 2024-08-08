@@ -1,6 +1,6 @@
 # Required documents
 
-### What documents are required when applying for the Alien Registration Card (ARC)?
+### What documents are required when applying for the ARC?
 
 - Application form
 - Copy of Passport

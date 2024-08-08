@@ -1,0 +1,29 @@
+# 필요 서류
+
+### 외국인등록증 신청할 때 필요한 서류는 어떤 것이 있나요?
+
+- 통합신청서
+- 여권사본
+- 재학증명서
+- 사증발급확인서
+- 거주지 입증서류
+- 위임장
+
+### 거주지 입증 서류에는 어떤 종류가 있나요?
+
+숙소 타입 별 준비서류가 상이합니다. 아래의 표를 확인하시고, 본인의 숙소타입에 맞는 서류를 준비하여 주시기 바랍니다. 숙소 타입이 어떤 것인지 파악이 어려울 경우, 카카오 채널로 문의해 주세요.
+Here is the translated table in Korean:
+
+| 숙박 유형                                       | 문서                                                                                                            |
+| ----------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| 대학 기숙사                                     | 기숙사 거주 확인서                                                                                              |
+| 본인 명의의 임대 계약이 있는 집                 | 1. 임대 계약서                                                                                                  |
+| 타인 명의의 임대 계약이 있는 집                 | 1. 거주 제공자 명의의 임대 계약서 또는 부동산 등기부 등본 2. 거주 제공자의 신분증 앞면 및 뒷면 거주/숙박 확인서 |
+| 호텔                                            | 1. 사업자 등록증 2. 월 이용료 영수증 거주/숙박 확인서                                                           |
+| 하숙집, 게스트 하우스, 쉐어 하우스, 엔코 스테이 | 1. 임대 계약서 2. 거주/숙박 확인서 3. 월 이용료 영수증 사업자 등록증 – 제공자가 사업자인 경우에만               |
+| 고시원, 고시텔                                  | 1. 임대 계약서 2. 사업자 등록증 월 이용료 영수증                                                                |
+| 에어비앤비                                      | 1. 임대 계약서 2. 거주/숙박 확인서 3. 에어비앤비 예약 확인서 (에어비앤비에서 출력)                              |
+
+### 집주인이 거주지 입증서류를 제공하지 않아요
+
+First, download the [request form (click)](https://drive.google.com/file/d/15D4Jci1-i1tWtAurMV7WNKMxSK_izoNr/view?usp=drive_link) and give it to your landlord. If the landlord still refuses to issue the documents, please leave a record of your communication with the landlord on the KakaoTalk channel and provide your contact information (phone number). A representative will contact you.

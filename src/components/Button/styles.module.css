@@ -1,0 +1,12 @@
+/* src/components/Button.module.css */
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  text-decoration: none;
+  text-align: center;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  color: #fff;
+}

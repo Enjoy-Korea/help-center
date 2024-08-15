@@ -3,9 +3,38 @@ import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
-import HomepageFeatures from '@site/src/components/HomepageFeatures';
+import HomepageFeatures, { FeatureItem } from '@site/src/components/HomepageFeatures';
 
 import styles from './index.module.css';
+
+
+const FeatureList: FeatureItem[] = [
+  {
+    title: 'Enkor Stay',
+    description: (
+      <>
+        Cheaper and easier stays in Korea. No deposit. Resident Card documents automatically issued.
+      </>
+    ),
+    img: '/img/service_portfolio_housing.png'
+  },
+  {
+    title: 'Enkor Visa',
+    description: (
+      <>
+        Resident Card application processing trusted by institutions in Korea. Easy and reliable with English customer support.
+      </>
+    ),
+    img: '/img/service_portfolio_visa.png'
+  },
+  {
+    title: 'Premium Bedding Rental',
+    description: (
+      <>Hassle-free bedding rental delivered to your dorm. Routine washing provided.</>
+    ),
+    img: '/img/service_portfolio_bedding.png'
+  }
+];
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
@@ -35,7 +64,7 @@ export default function Home(): JSX.Element {
     >
       <HomepageHeader />
       <main>
-        <HomepageFeatures />
+        <HomepageFeatures features={FeatureList} />
       </main>
     </Layout>
   );

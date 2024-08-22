@@ -57,4 +57,4 @@ The document types we can provide are as follows :
 - Contract
 - Invoice / Receipt
 
-Contracts are usually sent within 2 weeks after reservation confirmation.
+You can usually receive the contract within a week after moving in.

@@ -1,6 +1,6 @@
 # Supplementary Service Policy
 
-Ver 1.00
+Ver 1.0.0
 
 ### 1. General Provisions
 

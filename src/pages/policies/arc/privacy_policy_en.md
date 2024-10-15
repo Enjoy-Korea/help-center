@@ -79,7 +79,7 @@ Enkorwithus, Inc. processes the following items of personal information:
 6. Requests for correction and deletion of personal information are subject to legal restrictions if the personal information is collected under other laws.
 7. Enkorwithus, Inc. will verify whether the person making the request to view, correct, or delete personal information is the person in question or their legitimate representative.
 
-### **Personal Information Inquiry and Processing Department**
+### Personal Information Inquiry and Processing Department
 
 - Department: CX Team
 - Contact: 070-8803-1160, help@enkor.kr
@@ -98,16 +98,16 @@ Enkorwithus, Inc. takes the following measures to ensure the security of persona
 2. Cookies are small pieces of information sent by the server (http) used to operate the website to the user's computer browser and are sometimes stored on the hard disk of the user's PC computer.
 3. Data subjects can manage the settings for allowing or blocking cookies through the options setting on their web browser. However, if cookie storage is denied, difficulties may occur in using customized services.
 
-   ### **How to Allow/Block Cookies in Web Browsers**
+### How to Allow/Block Cookies in Web Browsers
 
-   - Chrome: Web browser settings > Privacy and security > Clear browsing data
-   - Edge: Web browser settings > Cookies and site permissions > Manage and delete cookies and site data
+- Chrome: Web browser settings > Privacy and security > Clear browsing data
+- Edge: Web browser settings > Cookies and site permissions > Manage and delete cookies and site data
 
-   ### **How to Allow/Block Cookies in Mobile Browsers**
+### How to Allow/Block Cookies in Mobile Browsers
 
-   - Chrome: Mobile browser settings > Privacy and security > Clear browsing data
-   - Safari: Mobile device settings > Safari > Advanced > Block all cookies
-   - Samsung Internet: Mobile browser settings > Internet usage history > Delete internet usage history
+- Chrome: Mobile browser settings > Privacy and security > Clear browsing data
+- Safari: Mobile device settings > Safari > Advanced > Block all cookies
+- Samsung Internet: Mobile browser settings > Internet usage history > Delete internet usage history
 
 ## **Article 9 (Collection, Use, Provision, and Refusal of Behavioral Information)**
 
@@ -135,14 +135,14 @@ In this regard, Enkorwithus, Inc. has considered the following factors before us
 
 1. Enkorwithus, Inc. designates the following person as the personal information protection officer, who is responsible for the overall task of processing personal information, handling complaints and damage relief related to personal information processing.
 
-   ### **Personal Information Protection Officer**
+### Personal Information Protection Officer
 
-   - Name: Jeonghoon Oh
-   - Position: CEO
-   - Rank: CEO
-   - Contact: 070-8803-1160, help@enkor.kr
+- Name: Jeonghoon Oh
+- Position: CEO
+- Rank: CEO
+- Contact: 070-8803-1160, help@enkor.kr
 
-### **Personal Information Protection Department**
+### Personal Information Protection Department
 
 - Department: Development Team
 - Contact: 070-8803-1160, help@enkor.kr
@@ -153,13 +153,13 @@ In this regard, Enkorwithus, Inc. has considered the following factors before us
 
 Data subjects can request dispute resolution or counseling, etc., if they suffer from infringement of personal information rights. Other than that, for other personal information infringement complaints or counseling, please contact the following institutions:
 
-1. Personal Information Dispute Mediation Committee: (toll-free) 1833-6972 ([www.kopico.go.kr](http://www.kopico.go.kr/))
-2. Personal Information Infringement Report Center: (toll-free) 118 (privacy.kisa.or.kr)
-3. Supreme Prosecutors' Office: (toll-free) 1301 ([www.spo.go.kr](http://www.spo.go.kr/))
-4. Police Agency: (toll-free) 182 (ecrm.cyber.go.kr)
+1. Personal Information Dispute Mediation Committee: (toll-free) 1833-6972 ([http://www.kopico.go.kr](http://www.kopico.go.kr))
+2. Personal Information Infringement Report Center: (toll-free) 118 ([privacy.kisa.or.kr](http://privacy.kisa.or.kr))
+3. Supreme Prosecutors' Office: (toll-free) 1301 ([www.spo.go.kr](http://www.spo.go.kr))
+4. Police Agency: (toll-free) 182 ([ecrm.cyber.go.kr](http://ecrm.cyber.go.kr))
 
 For complaints regarding the exercise of rights under Articles 35 (Access to Personal Information), 36 (Correction and Deletion of Personal Information), and 37 (Restriction of Processing of Personal Information) of the Personal Information Protection Act, those whose rights or interests have been infringed due to the disposition or inaction of the head of a public agency may file an administrative appeal according to the Administrative Appeals Act.
 
-※ For more information about administrative appeals, please refer to the Central Administrative Appeals Commission website ([www.simpan.go.kr](http://www.simpan.go.kr/)).
+※ For more information about administrative appeals, please refer to the Central Administrative Appeals Commission website ([www.simpan.go.kr](http://www.simpan.go.kr)).
 
 ○ This personal information processing policy will be applied starting from July 1, 2024.

@@ -73,9 +73,8 @@ export default function Host(): JSX.Element {
             <section>
                 <div className={styles.centerContainer}>
                     <div className={styles.textContainer}>
-                        <h1 className={styles.title}>호스트 등록 이벤트</h1>
-                        {/* <h1 className={styles.title}>호스트 등록 이벤트</h1> */}
-                        <p className={styles.subtitle}>서울 전역 호스트 9/30까지</p>
+                        <h1 className={styles.title}>{`48시간 안에 전 세계 게스트가\n당신의 문을 두드립니다!`}</h1>
+                        <p className={styles.subtitle}>외국인 게스트와 함께, 공실 걱정 없는 안정적인 수익을 잡으세요.</p>
                         <div className="container">
                             <a href="https://docs.google.com/forms/d/e/1FAIpQLSffXoKk7xgAOh3ZxFwMyWCjEZmSIv2AHDqgcm1XuueZiQU6QA/viewform"><button className={styles.button} style={{ margin: "10px", backgroundColor: "#4484F1", color: "#FFF" }}>호스트 신청하러 가기</button></a>
                             <a href="https://stay-enkor.channel.io/"><button className={styles.button} style={{ margin: "10px", backgroundColor: "#FFF" }}>호스트 가입 / 상담</button></a>

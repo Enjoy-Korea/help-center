@@ -101,19 +101,19 @@ Cancellation of the agreement does not require separate consultation with the ho
   - 7 to 4 days before move-in → A penalty of 30% of the total rent is charged.
   - 3 days to 24 hours before move-in → A penalty of 50% of the total rent is charged.
   - Within 24 hours of move-in → A penalty of 70% of the total rent is charged.
-    **< Period for free cancellation of fees >**
+- **< Period for free cancellation of fees >**
   - More than 61 days before move-in & within 7 days after payment
   - Within 60 days of move-in & within 24 hours after payment
-    **< Reasons for exemption from penalties and fees >**
+- **< Reasons for exemption from penalties and fees >**
   - Natural disasters, uncontrollable events like wars
   - Cancellation of reservation due to the host's reasons
-    ▪ Evidence must be provided for exemption.
-    **< Reasons that don't qualify for penalty and fee exemptions >**
+    - Evidence must be provided for exemption.
+- **< Reasons that don't qualify for penalty and fee exemptions >**
   - Simple change of mind or personal reasons
   - Forced eviction due to prohibited actions within the accommodation such as violent behavior, criminal activity, and indoor smoking.
   - Denied entry or visa issuance → Needs careful verification before reservation
   - Cancellation or change of flights due to bad weather → Should request reservation change instead of cancellation.
-    - However, some leniency might be provided upon negotiation with the host.
+  - However, some leniency might be provided upon negotiation with the host.
 
 ### **Agreement changes**
 

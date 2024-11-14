@@ -115,10 +115,6 @@ const config = {
                 href: "https://www.instagram.com/letsfip",
               },
               {
-                label: "Letsfip Tiktok",
-                href: "https://www.tiktok.com/@enkor.fip?lang=en",
-              },
-              {
                 label: "EnkorStay Instagram",
                 href: "https://www.instagram.com/enkorstay/",
               },

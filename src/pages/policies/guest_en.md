@@ -104,6 +104,7 @@ Cancellation of the agreement does not require separate consultation with the ho
 - **< Period for free cancellation of fees >**
   - More than 61 days before move-in & within 7 days after payment
   - Within 60 days of move-in & within 24 hours after payment
+  - ※ However, cancellations made within 24 hours of move-in are not eligible for a free cancellation fee and will be subject to penalty regulations.
 - **< Reasons for exemption from penalties and fees >**
   - Natural disasters, uncontrollable events like wars
   - Cancellation of reservation due to the host's reasons

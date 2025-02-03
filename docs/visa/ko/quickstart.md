@@ -6,4 +6,4 @@
 
 ### 외국인등록증 신청은 어디서, 어떻게 하나요?
 
-[EnkorStay](https://stay.enkor.kr) -> `ARC` 메뉴 -> `소속대학 선택` -> 외국인등록증 신청하기
+[EnkorStay](https://stay.enkor.kr) -> `RC` 메뉴 -> `소속대학 선택` -> 외국인등록증 신청하기

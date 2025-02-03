@@ -6,4 +6,4 @@
 
 ### 보완이 필요한 서류는 어떻게 제출하나요?
 
-[EnkorStay](https://stay.enkor.kr) → [My account](https://stay.enkor.kr/account) → `ARC` → 신청 항목 클릭 → `업데이트` 버튼
+[EnkorStay](https://stay.enkor.kr) → [My account](https://stay.enkor.kr/account) → `RC` → 신청 항목 클릭 → `업데이트` 버튼

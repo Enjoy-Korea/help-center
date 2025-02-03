@@ -1,6 +1,6 @@
 # Visa document support
 
-Did you know that Enkor Stay conveniently supports **Visa/ARC documentation** for you? We provide documents that are typically required for Visa and Alien Registration Card processing.
+Did you know that Enkor Stay conveniently supports **Visa/RC documentation** for you? We provide documents that are typically required for Visa and Residence Card processing.
 
 Supported documents:
 
@@ -21,9 +21,9 @@ Supported documents:
 
 If you have received a file identical to the image on the left, please make sure to fill in the area marked with the red box in the photo before submitting, as it is where the guest inputs information.
 
-![ARC document](https://lh4.googleusercontent.com/FTOeU2qwhcg1HururUQwbiHsi7z8iXRE1JVsVraJkYhk1t6TzjXoRfomkG_E-B-TdR5xKH0I7zFuoz61zxu1a9KJErqwh4K_-HGzAbeJiRvFhYFEQyKjgA1TbHk6BU1QuQ=w1280)
+![RC document](https://lh4.googleusercontent.com/FTOeU2qwhcg1HururUQwbiHsi7z8iXRE1JVsVraJkYhk1t6TzjXoRfomkG_E-B-TdR5xKH0I7zFuoz61zxu1a9KJErqwh4K_-HGzAbeJiRvFhYFEQyKjgA1TbHk6BU1QuQ=w1280)
 
-### Can you help me apply for an ARC?
+### Can you help me apply for an RC?
 
 It's possible! The documents we provide include the following:
 

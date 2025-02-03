@@ -29,6 +29,7 @@ const sidebars = {
         "visa/en/photo_id",
         "visa/en/fingerprint",
         "visa/en/payment_refund",
+        "visa/en/video_tutorial",
       ],
     },
     {

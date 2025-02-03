@@ -1,13 +1,11 @@
 # Required documents
 
-### What documents are required when applying for the ARC?
+### What documents are required when applying for the RC?
 
-- Application form
 - Copy of Passport
-- Enrollment Certificate
 - Visa grant notice
+- ID photo
 - Residence Document
-- Power of Attorney
 
 ### What types of documents are needed to prove my residence?
 

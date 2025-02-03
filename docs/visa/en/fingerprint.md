@@ -2,7 +2,7 @@
 
 ### When and where do I register my fingerprints?
 
-The schedule and location for fingerprint registration vary by university. It usually takes place within 2-3 weeks (up to 1 month) after applying for the ARC. You can check the schedule and location in the announcements from your university and the [ Enkor Stay ARC page](https://stay.enkor.kr/arc).
+The schedule and location for fingerprint registration vary by university. It usually takes place within 2-3 weeks (up to 1 month) after applying for the RC. You can check the schedule and location in the announcements from your university and the [ Enkor Stay RC page](https://stay.enkor.kr/arc).
 
 ### What should I do if I miss the fingerprint registration appointment?
 

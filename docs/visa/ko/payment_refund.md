@@ -30,4 +30,4 @@
 
 ### 환불 신청 방법
 
-이름, 대학, 학번, 환불 요청 사유를 적어 [이메일](mailto:visa-help@enkor.kr) 또는 카카오톡 채널로 문의해주세요.
+[환불 신청서](https://docs.google.com/forms/d/e/1FAIpQLSc29vrzW2BKqaRVIFXaj4WVKAWiYIyudfg9XxUFSlKrjhoamQ/viewform) 작성 후, [이메일](mailto:visa-help@enkor.kr) 또는 카카오채널로 취소 신청 관련 문의 해 주세요

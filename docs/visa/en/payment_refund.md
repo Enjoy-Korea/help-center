@@ -29,4 +29,4 @@ Please refer to the table below for the refund policy. If your reason for reques
 
 ### How to apply for refund
 
-Please provide your name, university, student ID number, and reason for refund request via [email](mailto:visa-help@enkor.kr) or KakaoTalk channel.
+After completing [the refund application form](https://docs.google.com/forms/d/e/1FAIpQLSc29vrzW2BKqaRVIFXaj4WVKAWiYIyudfg9XxUFSlKrjhoamQ/viewform), please contact us via [email](mailto:visa-help@enkor.kr) or Kakao Channel for cancellation inquiries.

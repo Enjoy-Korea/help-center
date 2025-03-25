@@ -102,7 +102,7 @@ Cancellation of the agreement does not require separate consultation with the ho
   - 3 days to 24 hours before move-in → A penalty of 50% of the total rent is charged.
   - Within 24 hours of move-in → A penalty of 70% of the total rent is charged.
 - **< Period for free cancellation of fees >**
-  - More than 61 days before move-in & within 7 days after payment
+  - More than 61 days before move-in & within 7 calendar days from the time of request agreement (including the date of request), by the same time of payment.
   - Within 60 days of move-in & within 24 hours after payment
   - ※ However, cancellations made within 24 hours of move-in are not eligible for a free cancellation fee and will be subject to penalty regulations.
 - **< Reasons for exemption from penalties and fees >**

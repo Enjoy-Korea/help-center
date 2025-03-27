@@ -111,8 +111,8 @@ const config = {
             title: "Join our community",
             items: [
               {
-                label: "Letsfip Instagram",
-                href: "https://www.instagram.com/letsfip",
+                label: "Enkoplay Instagram",
+                href: "https://www.instagram.com/enkoplay_community",
               },
               {
                 label: "EnkorStay Instagram",
@@ -136,7 +136,7 @@ const config = {
                 href: "https://stay.enkor.kr/bedding",
               },
               {
-                label: "Letsfip",
+                label: "Enkoplay",
                 href: "https://letsfip.com",
               },
             ],

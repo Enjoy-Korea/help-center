@@ -4,9 +4,9 @@
 
 These Terms of Use (hereinafter referred to as the "**Terms**") govern the EnkorStay website and application operated by EnkorWithUs, a registered legal entity in Korea. These Terms constitute a legally binding agreement between EnkorStay (hereinafter referred to as "**we**," "**us**," "**our**," or "**Company**") and users accessing and using the services provided on the EnkorStay platform, including those provided by third-party operators (hereinafter "**Host**" or "**Operator**"). Please read these Terms carefully before using the services.
 
-The EnkorStay platform provides an online space for users to post, offer, search, and book services. Members offering services are referred to as "**Hosts**" or "**Operators**," while members booking and using services are "**Guests**." Hosts may provide accommodations ("**Accommodations**"), activities, tours, events ("**Experiences**"), visa or ARC services ("**Visa Services**"), and other travel-related services (collectively, "**Host Services**"). To access various features of the platform, users must register an account and maintain accurate account information.
+The EnkorStay platform provides an online space for users to post, offer, search, and book services. Members offering services are referred to as "**Hosts**" or "**Operators**," while members booking and using services are "**Tenants**." Hosts may provide accommodations ("**Accommodations**"), activities, tours, events ("**Experiences**"), visa or ARC services ("**Visa Services**"), and other travel-related services (collectively, "**Host Services**"). To access various features of the platform, users must register an account and maintain accurate account information.
 
-As the platform provider, EnkorStay does not own, control, or manage any Host Services and disclaims any responsibility for damages related to those services. EnkorStay does not act as a real estate agent or insurer, and it is not a party to agreements between Hosts and Guests. The Host is responsible for ensuring compliance with all applicable laws, regulations, and agreements with third parties concerning the services they provide.
+As the platform provider, EnkorStay does not own, control, or manage any Host Services and disclaims any responsibility for damages related to those services. EnkorStay does not act as a real estate agent or insurer, and it is not a party to agreements between Hosts and Tenants. The Host is responsible for ensuring compliance with all applicable laws, regulations, and agreements with third parties concerning the services they provide.
 
 ## 2. Modifications to the Terms
 
@@ -24,7 +24,7 @@ Our mission is to provide comfortable stays throughout Korea. Users can explore 
 
 **3.1.2 Role of EnkorStay**
 
-EnkorStay provides the platform for Hosts to list, offer, search, and book services. While we strive to offer the best experience, we cannot control the actions of Hosts or Guests. EnkorStay may monitor platform use but is not obligated to do so. Content that violates these Terms may be blocked, edited, or removed at our discretion to maintain the platform’s quality and compliance.
+EnkorStay provides the platform for Hosts to list, offer, search, and book services. While we strive to offer the best experience, we cannot control the actions of Hosts or Tenants. EnkorStay may monitor platform use but is not obligated to do so. Content that violates these Terms may be blocked, edited, or removed at our discretion to maintain the platform’s quality and compliance.
 
 ## 4. Searching and Booking on EnkorStay
 
@@ -34,17 +34,17 @@ Users can search by accommodation type, proximity to universities, and other cri
 
 **4.2 Booking and Payment**
 
-When making a booking, users agree to pay the total fees (collectively, "**Total Fees**"), including service fees and applicable taxes. Upon booking confirmation, a direct contract is established between the Host and Guest, governed by the Host's policies and terms. EnkorStay collects security deposits as required by the Host.
+When making a booking, users agree to pay the total fees (collectively, "**Total Fees**"), including service fees and applicable taxes. Upon booking confirmation, a direct contract is established between the Host and Tenant, governed by the Host's policies and terms. EnkorStay collects security deposits as required by the Host.
 
 ## 5. Cancellations, Travel Issues, Refunds, and Booking Changes
 
 **5.1 Cancellations and Refunds**
 
-Cancellations are subject to our [Guest Policy](https://help.enkor.kr/policies/guest_en). In cases of uncontrollable events, partial or full refunds may be available. If a Host cancels a booking or a travel issue arises, Guests may be eligible for rebooking or a refund.
+Cancellations are subject to our [Tenant Policy](https://help.enkor.kr/policies/guest_en). In cases of uncontrollable events, partial or full refunds may be available. If a Host cancels a booking or a travel issue arises, Tenants may be eligible for rebooking or a refund.
 
 **5.2 Booking Changes**
 
-Hosts and Guests may modify bookings through the platform, with any resulting fees or taxes to be paid accordingly.
+Hosts and Tenants may modify bookings through the platform, with any resulting fees or taxes to be paid accordingly.
 
 ## 6. Access and Use of Services
 

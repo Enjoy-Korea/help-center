@@ -34,7 +34,7 @@ Users can search by accommodation type, proximity to universities, and other cri
 
 **4.2 Booking and Payment**
 
-When making a booking, users agree to pay the total fees (collectively, "**Total Fees**"), including service fees and applicable taxes. Upon booking confirmation, a direct contract is established between the Host and Tenant, governed by the Host's policies and terms. EnkorStay collects security deposits as required by the Host.
+When making a booking, users agree to pay the total fees (collectively, "**Total Fees**"), including service fees and applicable taxes. Upon booking confirmation, a direct contract is established between the Host and Tenant, governed by the Host's policies and terms.
 
 ## 5. Cancellations, Travel Issues, Refunds, and Booking Changes
 

@@ -10,7 +10,7 @@
 
 3. 해외에서 사용할 수 있는 카드가 있는지 확인하십시오
 
-[이메일](mailto:visa-help@enkor.kr) 또는 카카오 채널을 통해 도움을 요청할 수 있습니다.
+[이메일](mailto:visa-help@enko.kr) 또는 카카오 채널을 통해 도움을 요청할 수 있습니다.
 
 ### 환불요청
 
@@ -31,4 +31,4 @@
 
 ### 환불 신청 방법
 
-[환불 신청서](https://docs.google.com/forms/d/e/1FAIpQLSc29vrzW2BKqaRVIFXaj4WVKAWiYIyudfg9XxUFSlKrjhoamQ/viewform) 작성 후, [이메일](mailto:visa-help@enkor.kr) 또는 카카오채널로 취소 신청 관련 문의 해 주세요
+[환불 신청서](https://docs.google.com/forms/d/e/1FAIpQLSc29vrzW2BKqaRVIFXaj4WVKAWiYIyudfg9XxUFSlKrjhoamQ/viewform) 작성 후, [이메일](mailto:visa-help@enko.kr) 또는 카카오채널로 취소 신청 관련 문의 해 주세요

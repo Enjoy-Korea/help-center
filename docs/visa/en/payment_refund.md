@@ -10,7 +10,7 @@ There might be many reasons why payment does not work.
 
 3.  Some debit/credit cards do not support overseas payment. Check if card is available to use overseas.
 
-Please contact us for any help by [email](mailto:visa-help@enkor.kr) or via the Kakao Channel
+Please contact us for any help by [email](mailto:visa-help@enko.kr) or via the Kakao Channel
 
 ### Refund policy
 
@@ -30,4 +30,4 @@ Please refer to the table below for the refund policy. If your reason for reques
 
 ### How to apply for refund
 
-After completing [the refund application form](https://docs.google.com/forms/d/e/1FAIpQLSc29vrzW2BKqaRVIFXaj4WVKAWiYIyudfg9XxUFSlKrjhoamQ/viewform), please contact us via [email](mailto:visa-help@enkor.kr) or Kakao Channel for cancellation inquiries.
+After completing [the refund application form](https://docs.google.com/forms/d/e/1FAIpQLSc29vrzW2BKqaRVIFXaj4WVKAWiYIyudfg9XxUFSlKrjhoamQ/viewform), please contact us via [email](mailto:visa-help@enko.kr) or Kakao Channel for cancellation inquiries.

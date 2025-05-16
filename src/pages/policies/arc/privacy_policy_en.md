@@ -82,7 +82,7 @@ Enkorwithus, Inc. processes the following items of personal information:
 ### Personal Information Inquiry and Processing Department
 
 - Department: CX Team
-- Contact: 070-8803-1160, help@enkor.kr
+- Contact: 070-8803-1160, stay_support@enko.kr
 
 ## **Article 7 (Measures for Ensuring the Security of Personal Information)**
 
@@ -140,12 +140,12 @@ In this regard, Enkorwithus, Inc. has considered the following factors before us
 - Name: Jeonghoon Oh
 - Position: CEO
 - Rank: CEO
-- Contact: 070-8803-1160, help@enkor.kr
+- Contact: 070-8803-1160, stay_support@enko.kr
 
 ### Personal Information Protection Department
 
 - Department: Development Team
-- Contact: 070-8803-1160, help@enkor.kr
+- Contact: 070-8803-1160, stay_support@enko.kr
 
 1. Data subjects may contact the personal information protection officer and the department responsible for handling inquiries related to the protection of personal information, complaints, and damage relief arising from using the services (or business) of Enkorwithus, Inc. Enkorwithus, Inc. will respond to inquiries from data subjects without delay.
 

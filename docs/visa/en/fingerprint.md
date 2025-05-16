@@ -6,4 +6,4 @@ The schedule and location for fingerprint registration vary by university. It us
 
 ### What should I do if I miss the fingerprint registration appointment?
 
-If you couldn't participate in the fingerprint registration inevitably, please contact us via the KakaoTalk channel or [email](mailto:visa-help@enkor.kr) that you couldn't participate quickly. A representative will contact you.
+If you couldn't participate in the fingerprint registration inevitably, please contact us via the KakaoTalk channel or [email](mailto:visa-help@enko.kr) that you couldn't participate quickly. A representative will contact you.

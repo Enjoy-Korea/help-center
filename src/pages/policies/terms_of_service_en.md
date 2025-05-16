@@ -104,6 +104,6 @@ These Terms are governed by the laws of the Republic of Korea. Users agree to th
 
 ## 20. Contact Information
 
-For inquiries or reports of violations, please contact us at help@enkor.kr.
+For inquiries or reports of violations, please contact us at stay_support@enko.kr.
 
 **Last Updated:** August 5, 2024

@@ -97,7 +97,7 @@ Content listed below is strictly filtered and moderated to protect users, especi
 
 **Company Name**: Enkor With Us Co., Ltd.  
 **Contact Person**: Junghoon Oh (CEO)  
-**Email**: fip.support@enkor.kr  
+**Email**: play_support@enko.kr  
 **Phone**: 070-8803-1160
 
 ---

@@ -2,7 +2,7 @@
 
 ### How can I check if my RC application is complete?
 
-Once your application is complete on [EnkorStay](https://stay.enkor.kr), the status on [my account page](https://stay.enkor.kr/account) will change to
+Once your application is complete on [EnkorStay](https://stay.enko.kr), the status on [my account page](https://stay.enko.kr/account) will change to
 
 `Immigration office - Under review`
 

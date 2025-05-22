@@ -6,4 +6,4 @@ Of course! If you want to extend your bedding rental package, please contact to 
 
 ### Other inquiries
 
-If you have any inquiries regarding the bedding rental service, please feel free to contact us at [enkorsupport@enkor.kr](mailto:enkorsupport@enkor.kr)
+If you have any inquiries regarding the bedding rental service, please feel free to contact us at [enkorsupport@enko.kr](mailto:enkorsupport@enko.kr)

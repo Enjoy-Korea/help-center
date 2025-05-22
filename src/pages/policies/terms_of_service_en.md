@@ -14,7 +14,7 @@ As the platform provider, EnkorStay does not own, control, or manage any Host Se
 
 2.1.2 Continued use of the platform after modifications constitutes acceptance of the revised Terms. It is the user's responsibility to review any changes.
 
-2.1.3 In addition to these Terms, users agree to comply with any other terms or policies adopted by the Company from time to time, including the [Privacy Policy](https://help.enkor.kr/policies/privacy_policy_en).
+2.1.3 In addition to these Terms, users agree to comply with any other terms or policies adopted by the Company from time to time, including the [Privacy Policy](https://help.enko.kr/policies/privacy_policy_en).
 
 ## 3. EnkorStay’s Role
 
@@ -40,7 +40,7 @@ When making a booking, users agree to pay the total fees (collectively, "**Total
 
 **5.1 Cancellations and Refunds**
 
-Cancellations are subject to our [Tenant Policy](https://help.enkor.kr/policies/guest_en). In cases of uncontrollable events, partial or full refunds may be available. If a Host cancels a booking or a travel issue arises, Tenants may be eligible for rebooking or a refund.
+Cancellations are subject to our [Tenant Policy](https://help.enko.kr/policies/guest_en). In cases of uncontrollable events, partial or full refunds may be available. If a Host cancels a booking or a travel issue arises, Tenants may be eligible for rebooking or a refund.
 
 **5.2 Booking Changes**
 

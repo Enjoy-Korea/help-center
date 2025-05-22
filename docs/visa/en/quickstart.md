@@ -6,4 +6,4 @@ The application period varies by university. Please refer to your university's a
 
 ### Where and how do I apply for the Residence Card (RC)?
 
-Create account in [EnkorStay](https://stay.enkor.kr) -> `RC` menu -> `Choose your university` -> Apply for the RC
+Create account in [EnkorStay](https://stay.enko.kr) -> `RC` menu -> `Choose your university` -> Apply for the RC

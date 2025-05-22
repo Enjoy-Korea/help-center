@@ -142,7 +142,7 @@
      - 성명 : 오정훈
      - 직책 : CEO
      - 전화번호 : 070-8803-1160
-     - 이메일 : fip.support@enkor.kr
+     - 이메일 : play_support@enko.kr
 
 **권익침해에 대한 구제방법**
 

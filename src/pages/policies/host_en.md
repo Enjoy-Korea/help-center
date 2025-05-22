@@ -4,7 +4,7 @@
 
 ### Article 1
 
-The purpose of these terms and conditions is to define the rights, obligations, and other necessary matters between Enkor With Us Co., Ltd. (hereinafter referred to as the "Company") and the "Host" in relation to the use of services provided by the "Company" through 'enkorstay' (https://stay.enkor.kr/) and the Host webpage (https://host.enkor.kr/) (hereinafter referred to as the "Service").
+The purpose of these terms and conditions is to define the rights, obligations, and other necessary matters between Enkor With Us Co., Ltd. (hereinafter referred to as the "Company") and the "Host" in relation to the use of services provided by the "Company" through 'enkorstay' (https://stay.enko.kr/) and the Host webpage (https://host.enko.kr/) (hereinafter referred to as the "Service").
 
 # **Definitions**
 

@@ -2,7 +2,7 @@
 
 ### How to make a reservation
 
-Go to [Enkor Stay](https://stay.enkor.kr) and set your preferred location, desired booking dates, and number of guests on the link above, then hit the `Search` button. You can also can [search on a map](https://stay.enkor.kr/houselist?viewType=map).
+Go to [Enkor Stay](https://stay.enko.kr) and set your preferred location, desired booking dates, and number of guests on the link above, then hit the `Search` button. You can also can [search on a map](https://stay.enko.kr/houselist?viewType=map).
 
 - The reservation period must be 30 nights or longer.
 

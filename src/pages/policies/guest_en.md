@@ -55,7 +55,7 @@
 
 ### **Agreement application**
 
-Tenants can choose their preferred stay(accomodation), dates, and the number of people at [**stay.enkor.kr**](http://stay.enkor.kr/).
+Tenants can choose their preferred stay(accomodation), dates, and the number of people at [**stay.enko.kr**](http://stay.enko.kr/).
 
 - **New reservation:**
   1. Tenants can request a reservation for the desired stay. The reservation is confirmed upon the host's approval.

@@ -133,7 +133,7 @@ These terms of service (hereinafter referred to as the "Terms") are intended to 
 4. The Company may expose gatherings hosted by users and enhance service operations by sharing them through internet searches or other sites.
 5. Detailed procedures for this are provided in the Company's post suspension request service, in accordance with the Information and Communications Network Act and the Copyright Act.
 
-- Post Suspension Request: fip@enkor.kr
+- Post Suspension Request: fip@enko.kr
 
 ### Article 14 (Terms and Conditions for Individual Services)
 

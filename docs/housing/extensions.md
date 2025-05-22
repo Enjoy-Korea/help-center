@@ -2,7 +2,7 @@
 
 Extending your reservation is easy.
 
-1. Log in to Enkor Stay.
+1. Log in to Enko Stay.
 
 2. Go to `My Account` and select `My Bookings`
 
@@ -10,7 +10,7 @@ Extending your reservation is easy.
 
 4. If you would like to check the possibility of an extension, please contact the host!
 
-### Do I need to pay the Enkor service fee again, if I wish to extend my stay?
+### Do I need to pay the Enko service fee again, if I wish to extend my stay?
 
 We treat extension reservations as separate bookings.
 

@@ -2,7 +2,7 @@
 
 ### Article 1 (Purpose)
 
-These terms of service (hereinafter referred to as the "Terms") are intended to define the conditions and procedures for the use of the FIP service (hereinafter referred to as the “Service”) provided by Enkor With Us Co., Ltd. (hereinafter referred to as the “Company”), as well as the rights and obligations between the Company and the users (or customers) of the Service, and other necessary matters.
+These terms of service (hereinafter referred to as the "Terms") are intended to define the conditions and procedures for the use of the Enkoplay service (hereinafter referred to as the “Service”) provided by Enkor With Us Co., Ltd. (hereinafter referred to as the “Company”), as well as the rights and obligations between the Company and the users (or customers) of the Service, and other necessary matters.
 
 ### Article 2 (Definitions)
 
@@ -133,7 +133,7 @@ These terms of service (hereinafter referred to as the "Terms") are intended to 
 4. The Company may expose gatherings hosted by users and enhance service operations by sharing them through internet searches or other sites.
 5. Detailed procedures for this are provided in the Company's post suspension request service, in accordance with the Information and Communications Network Act and the Copyright Act.
 
-- Post Suspension Request: fip@enkor.kr
+- Post Suspension Request: play_support@enko.kr
 
 ### Article 14 (Terms and Conditions for Individual Services)
 

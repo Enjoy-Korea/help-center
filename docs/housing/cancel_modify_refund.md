@@ -23,7 +23,7 @@ Yes, it is possible.
 
 Reservation extensions can be done as follows:
 
-1. Log in to Enkor Stay.
+1. Log in to Enko Stay.
 
 2. Go to `My Account` and select `My Bookings > Stays`
 
@@ -33,13 +33,13 @@ Reservation extensions can be done as follows:
 
 Based on the existing reservation schedule and cancellation attempt date, penalties will be imposed before cancellation, and the remaining amount will be automatically refunded.
 
-If you are wondering about the cancellation policy, Please read Enkor's guest policy below.
+If you are wondering about the cancellation policy, Please read Enko's guest policy below.
 
 ### I want to modify my reservation
 
-Before requesting a reservation change, please check the Enkor [Guest Policy](/policies/guest_en)
+Before requesting a reservation change, please check the Enko [Guest Policy](/policies/guest_en)
 
-After you have reviewed our regulations, please compose a message following the template below and contact the Enkor CX Team!
+After you have reviewed our regulations, please compose a message following the template below and contact the Enko CX Team!
 
 **Request for reservation change**
 

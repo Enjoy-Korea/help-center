@@ -2,7 +2,7 @@
 
 ### How to make a reservation
 
-Go to [Enkor Stay](https://stay.enkor.kr) and set your preferred location, desired booking dates, and number of guests on the link above, then hit the `Search` button. You can also can [search on a map](https://stay.enkor.kr/houselist?viewType=map).
+Go to [Enko Stay](https://stay.enko.kr) and set your preferred location, desired booking dates, and number of guests on the link above, then hit the `Search` button. You can also can [search on a map](https://stay.enko.kr/houselist?viewType=map).
 
 - The reservation period must be 30 nights or longer.
 
@@ -31,13 +31,13 @@ Make sure the email was not automatically sent to spam.
 
 - Utility: Utility bills and maintenance fee
 
-- Enkor Service: Platform usage fee
+- Enko Service: Platform usage fee
 
 - Check-out cleaning fee: Cleaning fee after check-out
 
 ### Are there additional charges?
 
-As you know, Accommodation, Utility, Enkor service, and Check-out cleaning fees are all included at the time of booking, so no additional payments are required after making a reservation.
+As you know, Accommodation, Utility, Enko service, and Check-out cleaning fees are all included at the time of booking, so no additional payments are required after making a reservation.
 
 - However, please note that compensation claims may be made for any damage or loss of provided items
 
@@ -55,7 +55,7 @@ If you are curious about the possibility of additional discounts, please contact
 
 We typically only accept payments through our official website.
 
-If you have encountered difficulties with payment despite multiple attempts on our website, please inform the [Enkor service center](https://stay-enkor.channel.io).
+If you have encountered difficulties with payment despite multiple attempts on our website, please inform the [Enko service center](https://stay-enkor.channel.io).
 
 ### What is installment payment (monthly payment)
 

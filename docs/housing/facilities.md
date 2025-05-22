@@ -19,4 +19,4 @@ Some branches provide parking. Please check it out with your host.
 
 ### I want to learn more about provided facilities.
 
-You can select your desired location on the Enkor Stay website and contact the host of that location by clicking the `Contact hos` button.
+You can select your desired location on the Enko Stay website and contact the host of that location by clicking the `Contact hos` button.

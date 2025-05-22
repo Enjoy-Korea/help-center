@@ -2,11 +2,11 @@
 
 ## 1. Definitions
 
-These Terms of Use (hereinafter referred to as the "**Terms**") govern the EnkorStay website and application operated by EnkorWithUs, a registered legal entity in Korea. These Terms constitute a legally binding agreement between EnkorStay (hereinafter referred to as "**we**," "**us**," "**our**," or "**Company**") and users accessing and using the services provided on the EnkorStay platform, including those provided by third-party operators (hereinafter "**Host**" or "**Operator**"). Please read these Terms carefully before using the services.
+These Terms of Use (hereinafter referred to as the "**Terms**") govern the EnkoStay website and application operated by EnkoWithUs, a registered legal entity in Korea. These Terms constitute a legally binding agreement between EnkoStay (hereinafter referred to as "**we**," "**us**," "**our**," or "**Company**") and users accessing and using the services provided on the EnkoStay platform, including those provided by third-party operators (hereinafter "**Host**" or "**Operator**"). Please read these Terms carefully before using the services.
 
-The EnkorStay platform provides an online space for users to post, offer, search, and book services. Members offering services are referred to as "**Hosts**" or "**Operators**," while members booking and using services are "**Tenants**." Hosts may provide accommodations ("**Accommodations**"), activities, tours, events ("**Experiences**"), visa or ARC services ("**Visa Services**"), and other travel-related services (collectively, "**Host Services**"). To access various features of the platform, users must register an account and maintain accurate account information.
+The EnkoStay platform provides an online space for users to post, offer, search, and book services. Members offering services are referred to as "**Hosts**" or "**Operators**," while members booking and using services are "**Tenants**." Hosts may provide accommodations ("**Accommodations**"), activities, tours, events ("**Experiences**"), visa or ARC services ("**Visa Services**"), and other travel-related services (collectively, "**Host Services**"). To access various features of the platform, users must register an account and maintain accurate account information.
 
-As the platform provider, EnkorStay does not own, control, or manage any Host Services and disclaims any responsibility for damages related to those services. EnkorStay does not act as a real estate agent or insurer, and it is not a party to agreements between Hosts and Tenants. The Host is responsible for ensuring compliance with all applicable laws, regulations, and agreements with third parties concerning the services they provide.
+As the platform provider, EnkoStay does not own, control, or manage any Host Services and disclaims any responsibility for damages related to those services. EnkoStay does not act as a real estate agent or insurer, and it is not a party to agreements between Hosts and Tenants. The Host is responsible for ensuring compliance with all applicable laws, regulations, and agreements with third parties concerning the services they provide.
 
 ## 2. Modifications to the Terms
 
@@ -14,23 +14,23 @@ As the platform provider, EnkorStay does not own, control, or manage any Host Se
 
 2.1.2 Continued use of the platform after modifications constitutes acceptance of the revised Terms. It is the user's responsibility to review any changes.
 
-2.1.3 In addition to these Terms, users agree to comply with any other terms or policies adopted by the Company from time to time, including the [Privacy Policy](https://help.enkor.kr/policies/privacy_policy_en).
+2.1.3 In addition to these Terms, users agree to comply with any other terms or policies adopted by the Company from time to time, including the [Privacy Policy](https://help.enko.kr/policies/privacy_policy_en).
 
-## 3. EnkorStay’s Role
+## 3. EnkoStay’s Role
 
 **3.1.1 Mission**
 
 Our mission is to provide comfortable stays throughout Korea. Users can explore listings ranging from studios to hotels and independent homes to find accommodations that fit their lifestyle. Review descriptions, photos, and Host profiles to learn more about listings, and message Hosts directly for additional inquiries.
 
-**3.1.2 Role of EnkorStay**
+**3.1.2 Role of EnkoStay**
 
-EnkorStay provides the platform for Hosts to list, offer, search, and book services. While we strive to offer the best experience, we cannot control the actions of Hosts or Tenants. EnkorStay may monitor platform use but is not obligated to do so. Content that violates these Terms may be blocked, edited, or removed at our discretion to maintain the platform’s quality and compliance.
+EnkoStay provides the platform for Hosts to list, offer, search, and book services. While we strive to offer the best experience, we cannot control the actions of Hosts or Tenants. EnkoStay may monitor platform use but is not obligated to do so. Content that violates these Terms may be blocked, edited, or removed at our discretion to maintain the platform’s quality and compliance.
 
-## 4. Searching and Booking on EnkorStay
+## 4. Searching and Booking on EnkoStay
 
 **4.1 Search and Filters**
 
-Users can search by accommodation type, proximity to universities, and other criteria. Filters enhance search precision. Search results are based on relevance, availability, and other factors such as minimum/maximum stay requirements or popularity. EnkorStay may periodically test different search algorithms to improve user experience.
+Users can search by accommodation type, proximity to universities, and other criteria. Filters enhance search precision. Search results are based on relevance, availability, and other factors such as minimum/maximum stay requirements or popularity. EnkoStay may periodically test different search algorithms to improve user experience.
 
 **4.2 Booking and Payment**
 
@@ -40,7 +40,7 @@ When making a booking, users agree to pay the total fees (collectively, "**Total
 
 **5.1 Cancellations and Refunds**
 
-Cancellations are subject to our [Tenant Policy](https://help.enkor.kr/policies/guest_en). In cases of uncontrollable events, partial or full refunds may be available. If a Host cancels a booking or a travel issue arises, Tenants may be eligible for rebooking or a refund.
+Cancellations are subject to our [Tenant Policy](https://help.enko.kr/policies/guest_en). In cases of uncontrollable events, partial or full refunds may be available. If a Host cancels a booking or a travel issue arises, Tenants may be eligible for rebooking or a refund.
 
 **5.2 Booking Changes**
 
@@ -64,7 +64,7 @@ The platform and its contents are protected by copyright and other intellectual 
 
 ## 10. User Representations and Warranties
 
-Users must comply with all applicable laws and avoid engaging in harmful or illegal activities. EnkorStay reserves the right to remove user-generated content that violates these Terms.
+Users must comply with all applicable laws and avoid engaging in harmful or illegal activities. EnkoStay reserves the right to remove user-generated content that violates these Terms.
 
 ## 11. Account Registration and Security
 
@@ -72,23 +72,23 @@ Users must provide accurate information and maintain the confidentiality of thei
 
 ## 12. Reviews and User Content
 
-By submitting content, users grant EnkorStay a perpetual, royalty-free license to use, edit, or remove it. Reviews must adhere to content guidelines.
+By submitting content, users grant EnkoStay a perpetual, royalty-free license to use, edit, or remove it. Reviews must adhere to content guidelines.
 
-## 13. EnkorStay’s Rights and Responsibilities
+## 13. EnkoStay’s Rights and Responsibilities
 
 The Company retains discretion over platform content and policies and may modify services or fees at any time.
 
 ## 14. Indemnification
 
-Users agree to indemnify EnkorStay against claims arising from violations of these Terms or misuse of the platform.
+Users agree to indemnify EnkoStay against claims arising from violations of these Terms or misuse of the platform.
 
 ## 15. Disclaimers and Limitation of Liability
 
-The platform is provided "as is," with no warranties. EnkorStay is not liable for any indirect, incidental, or consequential damages.
+The platform is provided "as is," with no warranties. EnkoStay is not liable for any indirect, incidental, or consequential damages.
 
 ## 16. Third-Party Interactions
 
-The platform may contain links to third-party websites. EnkorStay is not responsible for the content or actions of third parties.
+The platform may contain links to third-party websites. EnkoStay is not responsible for the content or actions of third parties.
 
 ## 17. Termination
 
@@ -96,7 +96,7 @@ The Company may terminate access to the platform at its discretion. Users must c
 
 ## 18. Miscellaneous
 
-The Terms, along with supplemental policies, constitute the entire agreement between the user and EnkorStay.
+The Terms, along with supplemental policies, constitute the entire agreement between the user and EnkoStay.
 
 ## 19. Governing Law
 

@@ -1,6 +1,6 @@
 # Visa document support
 
-Did you know that Enkor Stay conveniently supports **Visa/RC documentation** for you? We provide documents that are typically required for Visa and Residence Card processing.
+Did you know that Enko Stay conveniently supports **Visa/RC documentation** for you? We provide documents that are typically required for Visa and Residence Card processing.
 
 Supported documents:
 
@@ -10,7 +10,7 @@ Supported documents:
 
 ### Download documents
 
-1. Navigate to your [booking page](https://stay.enkor.kr/account/stay).
+1. Navigate to your [booking page](https://stay.enko.kr/account/stay).
 2. Locate the booking for which you want to request documents.
 3. Click the **Document** button.
 4. Select the type of document you want.

@@ -6,4 +6,4 @@ If the submitted documents need supplementation, the status of your RC applicati
 
 ### How do I submit the supplementary documents?
 
-[EnkorStay](https://stay.enko.kr) → [My account](https://stay.enko.kr/account) → `RC` → Click the application item → `Update` button
+[EnkoStay](https://stay.enko.kr) → [My account](https://stay.enko.kr/account) → `RC` → Click the application item → `Update` button

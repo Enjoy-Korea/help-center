@@ -1,6 +1,6 @@
 # Visa document support
 
-Did you know that Enkor Stay conveniently supports **Visa/RC documentation** for you? We provide documents that are typically required for Visa and Residence Card processing.
+Did you know that Enko Stay conveniently supports **Visa/RC documentation** for you? We provide documents that are typically required for Visa and Residence Card processing.
 
 Supported documents:
 

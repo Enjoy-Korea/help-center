@@ -2,7 +2,7 @@
 
 ### My stay in Korea got extended. Is it possible to extend without returning?
 
-Of course! If you want to extend your bedding rental package, please contact to Enkor support Team.
+Of course! If you want to extend your bedding rental package, please contact to Enko support Team.
 
 ### Other inquiries
 

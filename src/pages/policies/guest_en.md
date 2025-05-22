@@ -9,13 +9,13 @@
 - Rental: The cost paid to the host for monthly rent.
 - Utility fee: The monthly combined fee for utilities and maintenance paid to the host.
 - Additional tenant charge: Cost for exceeding the standard number of residents, includes additional utilities and maintenance.
-- Bedding package: Enkor Stay offers a bedding rental package available for the duration of the stay. It's an optional service fee that tenants can choose to receive.
+- Bedding package: Enko Stay offers a bedding rental package available for the duration of the stay. It's an optional service fee that tenants can choose to receive.
 - Move-out cleaning: Mandatory cleaning service provided by the host after the previous tenant moves out and before the new tenant moves in.
-- Fee (Enkor service fee): Cost for payment and consultation services provided by the platform.
+- Fee (Enko service fee): Cost for payment and consultation services provided by the platform.
   - 10% of the rent
 - Host service: Move-out cleaning
 - Rent: Rental + Utility fee + Additional tenant charge
-- Total payment: Total rent + Enkor service fee + Host service + Bedding package
+- Total payment: Total rent + Enko service fee + Host service + Bedding package
 - Initial payment: Rent from move-in day to end of the next month + Fee + Host service + Bedding package
 - Cumulative payment (based on total payment): Amount paid by the tenant so far
 - Remaining payment (based on total payment): Amount the tenant still needs to pay
@@ -197,8 +197,8 @@ The refund procedure for the tenant is: 1) Evidence collection, 2) Bilateral neg
    - The host can compensate the tenant through means other than a refund.
    - If a satisfactory agreement isn't reached, they can proceed to the next step.
 3. Customer service mediation request
-   - If mediation is requested at the Enkor customer center, mediation will be provided within a maximum of 3 business days.
-   - Enkor customer service follows the basic terms and cancellation refund regulations and mediates based on them.
+   - If mediation is requested at the Enko customer center, mediation will be provided within a maximum of 3 business days.
+   - Enko customer service follows the basic terms and cancellation refund regulations and mediates based on them.
    - However, if there's evidence from the host of issues caused by the tenant, like smoking or bringing unauthorized pets, a refund might be challenging.
    - The total refund amount a tenant can receive cannot exceed the actual rent paid by the tenant, and no compensation will be provided for any special, indirect, incidental, or consequential damages arising from or related to the host's failure to fulfill their obligations.
 
@@ -249,19 +249,19 @@ The refund procedure for the tenant is: 1) Evidence collection, 2) Bilateral neg
   - The living space should be maintained to at least a minimum standard. Examples of these standards include:
     - Items from previous occupants left behind.
     - Trash bins not emptied.
-    - A level of uncleanliness deemed by EnkorStay to make the space difficult to enter.
+    - A level of uncleanliness deemed by EnkoStay to make the space difficult to enter.
 
 ※ Hosts have responsibilities according to these regulations. If they violate them, the tenant is not held accountable.
 
-### **Duties of EnkorWithUs**
+### **Duties of EnkoWithUs**
 
-- EnkorWithUs should abide by applicable laws while operating and avoid illegal activities.
-- EnkorWithUs acts as a bridge between tenants and hosts, fulfilling this role dutifully. In this role, they are responsible for:
+- EnkoWithUs should abide by applicable laws while operating and avoid illegal activities.
+- EnkoWithUs acts as a bridge between tenants and hosts, fulfilling this role dutifully. In this role, they are responsible for:
   - Informing about any changes to the system or regulations in advance.
   - One must always maintain a neutral position while mutually respecting the rights of both the tenant and the host.
   - Mediating disputes between tenants and hosts impartially and fairly.
 
-※ EnkorWithUs is responsible for fulfilling these duties. If they fail in these duties, they are accountable to either the tenant or the host for compensation.
+※ EnkoWithUs is responsible for fulfilling these duties. If they fail in these duties, they are accountable to either the tenant or the host for compensation.
 
 ### **Limitations of Liability**
 
@@ -289,12 +289,12 @@ The refund procedure for the tenant is: 1) Evidence collection, 2) Bilateral neg
 - The review system is comprised of tenant feedback on rentals and responses from hosts. The purpose of this policy is to mutually respect and balance the rights of tenants and hosts, providing protection.
 - Tenants can write reviews within 3 days before the move-out date, and hosts have the option to respond to the comments left by tenants.
 - Tenant reviews are displayed on the website, and hosts cannot hide or delete them. If a review deletion is desired, the tenant must request it through a separate notification to the company. The company will then internally review the request for deletion.
-- Hosts are prohibited from releasing or coercing false reviews with the intention of raising or lowering the rental's rating. If the creation or encouragement of false reviews is confirmed, additional consequences may be imposed by EnkorStay.
+- Hosts are prohibited from releasing or coercing false reviews with the intention of raising or lowering the rental's rating. If the creation or encouragement of false reviews is confirmed, additional consequences may be imposed by EnkoStay.
 - Reviews containing the following characteristics will be subject to unnotified deletion after administrator verification:
   1. Explicit sexual expressions or profanity
   2. Content that is hostile, antisocial, or unethical targeting specific hosts or tenants
   3. Reviews that are unrelated to the rental and stay.
 
-## **8. Contact EnkorWithUs**
+## **8. Contact EnkoWithUs**
 
-If tenants or hosts have questions regarding the above clauses, they are advised to contact EnkorWithUs through the "Help" button on the website.
+If tenants or hosts have questions regarding the above clauses, they are advised to contact EnkoWithUs through the "Help" button on the website.

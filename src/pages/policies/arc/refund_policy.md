@@ -11,9 +11,9 @@
 | 보완서류 미비로 인해 출입국에 접수를 못했을 경우 / When application to the immigration office is not possible due to insufficient supplementary documents               | 환불 불가 No refunds                                                                         |
 | 단체접수에서 개인접수로 전환하는 경우 / When switching from group application to individual application                                                                 | 환불 불가 – 관납료 명세서 제공 Non-refundable – Invoice for government fees will be provided |
 | 중복 결제한 경우 / In case of duplicate payment                                                                                                                         | 결제 수수료 제외 환불 Refund excluding payment processing fees                               |
-| 출입국사무소와 Enkorstay 서비스 중복 신청한 경우 / If the applicant applied both to the immigration office and to Enkorstay                                             | 환불 불가 No refunds                                                                         |
+| 출입국사무소와 Enkostay 서비스 중복 신청한 경우 / If the applicant applied both to the immigration office and to Enkostay                                               | 환불 불가 No refunds                                                                         |
 | /If the applicant's application was rejected by immigration due to the applicant's reasons                                                                              | 환불 불가 No refunds                                                                         |
-| If the applicant's application was denied by immigration due to Enkorstay mistakes                                                                                      | 100% 환불 100% refunds                                                                       |
+| If the applicant's application was denied by immigration due to Enkostay mistakes                                                                                       | 100% 환불 100% refunds                                                                       |
 
 **환불 신청 방법 / Refund Application Process**
 

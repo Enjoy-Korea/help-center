@@ -4,7 +4,7 @@
 
 ### Article 1
 
-The purpose of these terms and conditions is to define the rights, obligations, and other necessary matters between Enkor With Us Co., Ltd. (hereinafter referred to as the "Company") and the "Host" in relation to the use of services provided by the "Company" through 'enkorstay' (https://stay.enko.kr/) and the Host webpage (https://host.enko.kr/) (hereinafter referred to as the "Service").
+The purpose of these terms and conditions is to define the rights, obligations, and other necessary matters between Enkor With Us Co., Ltd. (hereinafter referred to as the "Company") and the "Host" in relation to the use of services provided by the "Company" through 'enkostay' (https://stay.enko.kr/) and the Host webpage (https://host.enko.kr/) (hereinafter referred to as the "Service").
 
 # **Definitions**
 
@@ -198,8 +198,8 @@ If the "Guest" requests negotiations with the "Host," or vice versa, the followi
 
 #### 17-3 Requesting Mediation from the Customer Center
 
-- Mediation can be requested from the Enkor customer center within three business days.
-- The Enkor customer center will mediate based on the basic terms and cancellation/refund policy and may request copies of the evidence collected by the "Guest" and the "Host."
+- Mediation can be requested from the Enko customer center within three business days.
+- The Enko customer center will mediate based on the basic terms and cancellation/refund policy and may request copies of the evidence collected by the "Guest" and the "Host."
 - If evidence of the "Guest's" violation (e.g., smoking, bringing in pets) is provided by the "Host," the "Guest" may not be eligible for compensation.
 
 #### 17-4 Proceeding with Compensation
@@ -274,7 +274,7 @@ B. **Total Liability Limitation**
  The total liability of the "Company" related to any claims arising from or related to the contract between the "Host" and the "Guest" cannot exceed the actual amount of direct damage. The "Host" is entitled only to the monetary compensation specified by the "Company," and this replaces any other remedies the "Host" may seek.
 
 C. **Interpretation of Special, Indirect, Incidental, or Consequential Damages**  
- The "Company" is not liable for any special, indirect, incidental, or consequential damages of any kind (e.g., loss of mobile data due to a failed reservation on enkorstay) caused by the content provided by the "Company" (e.g., FIP) or the failure of the "Company" to fulfill its obligations. The "Company" assumes no liability for such damages, whether or not the "Company" was at fault.
+ The "Company" is not liable for any special, indirect, incidental, or consequential damages of any kind (e.g., loss of mobile data due to a failed reservation on enkostay) caused by the content provided by the "Company" (e.g., Enkoplay) or the failure of the "Company" to fulfill its obligations. The "Company" assumes no liability for such damages, whether or not the "Company" was at fault.
 
 # **Host Accommodation Rules**
 

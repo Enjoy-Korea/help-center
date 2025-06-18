@@ -1,0 +1,13 @@
+.notionEmbedContainer {
+  width: 100%;
+  overflow: hidden;
+  border-radius: 8px;
+  border: 1px solid var(--ifm-color-emphasis-200);
+  margin: 1rem 0;
+  position: relative;
+}
+
+.notionEmbedContainer iframe {
+  width: 100%;
+  border: none;
+}

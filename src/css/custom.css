@@ -49,3 +49,23 @@ img {
 .hero__subtitle {
   color: gray;
 }
+
+/* NOTE: Notion embed 페이지용 전체 너비 스타일 */
+.notion-full-width .container {
+  max-width: none !important;
+  padding: 0 !important;
+}
+
+.notion-full-width .row {
+  margin: 0 !important;
+}
+
+.notion-full-width .col {
+  max-width: 100% !important;
+  padding: 0 !important;
+}
+
+/* NOTE: TOC가 숨겨진 페이지에서 content 영역 확장 */
+.theme-doc-markdown:not(.theme-doc-markdown--toc-wrapper) {
+  max-width: none !important;
+}

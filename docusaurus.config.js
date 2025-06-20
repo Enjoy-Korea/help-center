@@ -12,7 +12,7 @@ const config = {
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://help.enkor.kr",
+  url: "https://help.enko.kr",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
@@ -78,7 +78,7 @@ const config = {
             label: "Bedding",
           },
           {
-            href: "https://stay.enkor.kr",
+            href: "https://stay.enko.kr",
             label: "Site",
             position: "right",
           },
@@ -125,15 +125,15 @@ const config = {
             items: [
               {
                 label: "Housing",
-                href: "https://stay.enkor.kr",
+                href: "https://stay.enko.kr",
               },
               {
                 label: "Visa",
-                href: "https://stay.enkor.kr/arc",
+                href: "https://stay.enko.kr/arc",
               },
               {
                 label: "Bedding",
-                href: "https://stay.enkor.kr/bedding",
+                href: "https://stay.enko.kr/bedding",
               },
               {
                 label: "Enkoplay",

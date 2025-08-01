@@ -22,7 +22,11 @@ You may choose from two types of bedding sets:
 
 ## Shipping Information
 
-- The product price **includes shipping**.
+- Shipping Fee: Included in the product price.
+- Shipping Method: Courier delivery or direct delivery
+- Shipping Time: 2–3 business days from the date of payment confirmation.
+
+**Currently, delivery is only available in the Seoul area.**
 
 ### 📦 Pre-orders (before move-in)
 
@@ -47,22 +51,10 @@ You may choose from two types of bedding sets:
 
 ## Cancellation & Refund Policy
 
-### ✅ Pre-orders (before move-in)
-
-- **Up to 4 days before move-in date** →  
-  90% refund (_10% payment processing fee deducted_)
-
-- **From 3 days before move-in date or after shipping** →  
-  ❌ Cancellations and refunds **not accepted**
-
-### ✅ Orders after move-in
-
-- **Before shipping** →  
-  90% refund (_10% payment processing fee deducted_)
-
-- **After shipping** →  
-  Refund after item is returned and inspected  
-  (_10% fee deducted, return shipping cost covered by customer_)
+- You may request an exchange or return within 7 days of receiving the product.
+- Exchanges and returns are possible even after the product is opened.
+- For change-of-mind exchanges or returns, the customer is responsible for the return shipping cost.
+- For defective or incorrect items, shipping costs will be covered by LIVING KO
 
 ---
 
@@ -101,5 +93,12 @@ Returns or exchanges will **not be accepted** if:
 - All items are shipped under **strict hygiene standards**
 - Once opened, items are **not refundable** due to personal preference
 - A **10% payment processing fee** is **non-refundable** in all cancellations
-- For post-move-in orders, **return shipping fees** are the **customer’s responsibility**
+- For post-move-in orders, **return shipping fees** are the **customer's responsibility**
 - **All components must be included** for any return or exchange
+
+---
+
+## 8. Customer Service Contact
+
+- **CS Link**: [Contact Living Ko, the official bedding service operator](https://linktr.ee/LIVINGKO)
+- **Phone**: +82) 70 8027 1895

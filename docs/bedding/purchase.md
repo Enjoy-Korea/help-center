@@ -37,8 +37,6 @@ You may choose from two types of bedding sets:
 
 - Shipped **within 3 business days**.
 
-> Additional time may be required for **remote or island areas**.
-
 ---
 
 ## Move-in Date Change
@@ -52,7 +50,6 @@ You may choose from two types of bedding sets:
 ## Cancellation & Refund Policy
 
 - You may request an exchange or return within 7 days of receiving the product.
-- Exchanges and returns are possible even after the product is opened.
 - For change-of-mind exchanges or returns, the customer is responsible for the return shipping cost.
 - For defective or incorrect items, shipping costs will be covered by LIVING KO
 

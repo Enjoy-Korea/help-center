@@ -42,8 +42,7 @@ You may choose from two types of bedding sets:
 ## Move-in Date Change
 
 - Shipping dates may be changed **up to 4 days before** your move-in date.
-- To request changes, please contact our support team:  
-  📩 **service_support@enko.kr**
+- To request changes, please contact [LIVING KO, the official bedding service operator](https://linktr.ee/LIVINGKO)
 
 ---
 
@@ -87,6 +86,7 @@ Returns or exchanges will **not be accepted** if:
 
 ## 7. Important Notes
 
+- If you request cancellation through [LIVING KO](https://linktr.ee/LIVINGKO), we can process the Stripe cancellation on the same day. Once Stripe completes the cancellation, the refund will be credited to your account—this typically takes 3–5 days, depending on your card issuer.
 - All items are shipped under **strict hygiene standards**
 - Once opened, items are **not refundable** due to personal preference
 - A **10% payment processing fee** is **non-refundable** in all cancellations
@@ -97,5 +97,5 @@ Returns or exchanges will **not be accepted** if:
 
 ## 8. Customer Service Contact
 
-- **CS Link**: [Contact Living Ko, the official bedding service operator](https://linktr.ee/LIVINGKO)
+- **CS Link**: [Contact LIVING KO, the official bedding service operator](https://linktr.ee/LIVINGKO)
 - **Phone**: +82) 70 8027 1895

@@ -5,9 +5,9 @@ import { NOTION_PAGES } from "@site/src/constants/notion-pages";
 export default function HostKr(): JSX.Element {
   return (
     <NotionEmbedFullContent
-      src={NOTION_PAGES.HOST_POLICY_KR}
-      title="호스트 정책"
-      description="호스트 정책"
+      src={NOTION_PAGES.HOST_POLICY_EN}
+      title="Host Terms and Conditions"
+      description="Host Terms and Conditions"
     />
   );
 }

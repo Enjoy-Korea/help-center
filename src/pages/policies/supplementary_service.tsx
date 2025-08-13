@@ -2,12 +2,12 @@ import React from "react";
 import NotionEmbedFullContent from "@site/src/components/NotionEmbedFullContent";
 import { NOTION_PAGES } from "@site/src/constants/notion-pages";
 
-export default function HostKr(): JSX.Element {
+export default function SupplementaryServiceEn(): JSX.Element {
   return (
     <NotionEmbedFullContent
-      src={NOTION_PAGES.HOST_POLICY_KR}
-      title="호스트 정책"
-      description="호스트 정책"
+      src={NOTION_PAGES.SUPPLEMENTARY_SERVICE_EN}
+      title="Supplementary Service"
+      description="Supplementary Service"
     />
   );
 }

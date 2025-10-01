@@ -55,7 +55,7 @@ If you are curious about the possibility of additional discounts, please contact
 
 We typically only accept payments through our official website.
 
-If you have encountered difficulties with payment despite multiple attempts on our website, please inform the [Enko service center](https://stay-enkor.channel.io).
+If you have encountered difficulties with payment despite multiple attempts on our website, please email us at [stay_support@enko.kr](mailto:stay_support@enko.kr).
 
 ### What is installment payment (monthly payment)
 

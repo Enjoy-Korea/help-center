@@ -153,14 +153,6 @@ export default function Host(): JSX.Element {
                   호스트 신청하러 가기
                 </button>
               </a>
-              <a href="https://stay-enkor.channel.io/">
-                <button
-                  className={styles.button}
-                  style={{ margin: "10px", backgroundColor: "#FFF" }}
-                >
-                  호스트 가입 / 상담
-                </button>
-              </a>
             </div>
           </div>
         </div>
@@ -228,14 +220,6 @@ export default function Host(): JSX.Element {
               }}
             >
               호스트 신청하러 가기
-            </button>
-          </a>
-          <a href="https://stay-enkor.channel.io/">
-            <button
-              className={styles.button}
-              style={{ margin: "10px", backgroundColor: "#FFF" }}
-            >
-              호스트 가입 / 상담
             </button>
           </a>
         </div>

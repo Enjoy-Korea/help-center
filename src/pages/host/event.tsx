@@ -129,7 +129,7 @@ export default function Host(): JSX.Element {
   return (
     <div style={{ backgroundColor: "black" }}>
       <nav className={styles.navbar}>
-        <img src="/img/logo_dark.svg" alt="Logo" className="logo" />
+        <img src="/img/logo.png" alt="Logo" className="logo" />
       </nav>
       <section>
         <div className={styles.centerContainer}>

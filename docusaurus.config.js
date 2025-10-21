@@ -55,8 +55,8 @@ const config = {
       navbar: {
         logo: {
           alt: "Enkorwithus Logo",
-          src: "img/logo.svg",
-          srcDark: "img/logo_dark.svg",
+          src: "img/logo.png",
+          srcDark: "img/logo.png",
         },
         items: [
           {

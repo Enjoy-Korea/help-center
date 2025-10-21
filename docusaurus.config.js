@@ -55,8 +55,8 @@ const config = {
       navbar: {
         logo: {
           alt: "Enkorwithus Logo",
-          src: "img/logo.svg",
-          srcDark: "img/logo_dark.svg",
+          src: "img/logo.png",
+          srcDark: "img/logo.png",
         },
         items: [
           {
@@ -115,8 +115,8 @@ const config = {
                 href: "https://www.instagram.com/enkoplay_community",
               },
               {
-                label: "EnkorStay Instagram",
-                href: "https://www.instagram.com/enkorstay/",
+                label: "Enkostay Instagram",
+                href: "https://www.instagram.com/enkostay_seoul/",
               },
             ],
           },

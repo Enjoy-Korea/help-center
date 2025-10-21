@@ -115,8 +115,8 @@ const config = {
                 href: "https://www.instagram.com/enkoplay_community",
               },
               {
-                label: "EnkorStay Instagram",
-                href: "https://www.instagram.com/enkorstay/",
+                label: "Enkostay Instagram",
+                href: "https://www.instagram.com/enkostay_seoul/",
               },
             ],
           },

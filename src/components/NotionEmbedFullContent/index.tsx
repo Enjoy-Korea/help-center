@@ -1,4 +1,5 @@
-import { useEffect } from "react";
+import React, { useEffect } from "react";
+import ExecutionEnvironment from "@docusaurus/ExecutionEnvironment";
 
 interface NotionEmbedFullContentProps {
   src: string;
@@ -8,10 +9,18 @@ interface NotionEmbedFullContentProps {
 
 export default function NotionEmbedFullContent({
   src,
-}: NotionEmbedFullContentProps): null {
+}: NotionEmbedFullContentProps): JSX.Element | null {
   useEffect(() => {
-    window.location.replace(src);
+    if (ExecutionEnvironment.canUseDOM) {
+      window.location.replace(src);
+    }
   }, [src]);
+
+  if (!ExecutionEnvironment.canUseDOM) {
+    return (
+      <meta httpEquiv="refresh" content={`0; url=${src}`} />
+    );
+  }
 
   return null;
 }

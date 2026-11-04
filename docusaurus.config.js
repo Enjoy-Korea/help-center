@@ -72,12 +72,6 @@ const config = {
             label: "Visa",
           },
           {
-            type: "docSidebar",
-            sidebarId: "beddingSidebar",
-            position: "left",
-            label: "Bedding",
-          },
-          {
             href: "https://stay.enko.kr",
             label: "Site",
             position: "right",
